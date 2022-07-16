@@ -8,6 +8,8 @@
 
 # Getting Started with Create React App
 
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/DevCleverton/SiteFilmesReact/a290450463bebe0204a5787c73e39f4515450500/cat.png" width="826" height="470">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
